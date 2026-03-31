@@ -71,15 +71,40 @@ const NavbarHero = () => {
         </div>
       </section>
 
-      <section className="px-10 py-16">
-        <h2 className='text-4xl font-bold text-gray-800'>Premium Digital Tools</h2>
-        <p className='text-gray-600 mt-4'>Choose from our curated collection of premium digital products designed to boost your productivity and creativity.</p> 
-      </section>
+      
     </div>
-      <div className="px-10 py-16">
-        <h2 className='text-4xl font-bold text-gray-800'>Premium Digital Tools</h2>
-        <p className='text-gray-600 mt-4'>Choose from our curated collection of premium digital products designed to boost your productivity and creativity.</p> 
-      </div>
+     
+
+
+      <section className="bg-[#8b2cf5] py-10 px-4 w-full flex flex-col md:flex-row items-center justify-center gap-12 md:gap-30">
+          
+          {/* 50K+ Stat */}
+          <div className="flex flex-col items-center px-12 text-white">
+            <h2 className="text-6xl font-bold mb-2 tracking-tight">50K+</h2>
+            <p className="text-sm font-medium opacity-90">Active Users</p>
+          </div>
+      
+          {/* Divider */}
+          <div className="hidden md:block h-16 w-[1px] bg-white/30" />
+      
+          {/* 200+ Stat */}
+          <div className="flex flex-col items-center px-12 text-white">
+            <h2 className="text-6xl font-bold mb-2 tracking-tight">200+</h2>
+            <p className="text-sm font-medium opacity-90">Premium Tools</p>
+          </div>
+      
+          {/* Divider */}
+          <div className="hidden md:block h-16 w-[1px] bg-white/30" />
+      
+          {/* 4.9 Stat */}
+          <div className="flex flex-col items-center px-12 text-white">
+            <h2 className="text-6xl font-bold mb-2 tracking-tight">4.9</h2>
+            <p className="text-sm font-medium opacity-90">Rating</p>
+          </div>
+      
+        </section>
+
+
   </>
 
   );
