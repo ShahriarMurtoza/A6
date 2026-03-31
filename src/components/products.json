@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writting Pro",
+    "description": "Essential features for individuals getting started with our platform.",
+    "price": 20.00,
+    "period": "monthly",
+    "tag": "Free",
+    "tagType": "new",
+    "img": "/src/assets/products/writing_2327400 1.png"
+  },
+  {
+    "id": 2,
+    "name": "Design template Pack",
+    "description": "Full access to advanced tools and priority support.",
+    "price": 29.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "img": "/src/assets/products/design-tool.png"
+  },
+  {
+    "id": 3,
+    "name": "Premium stock Assets",
+    "description": "Custom workflows and team management features for growing companies.",
+    "price": 299.00,
+    "period": "yearly",
+    "tag": "Best Value",
+    "tagType": "best seller",
+    "img": "/src/assets/products/social-media.png"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Unlimited scale, dedicated account manager, and SSO integration.",
+    "price": 999.00,
+    "period": "yearly",
+    "tag": "Top Rated",
+    "tagType": "best seller",
+    "img": "/src/assets/products/writing_2327400 1.png"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Pay once and get lifetime access to all core features.",
+    "price": 150.00,
+    "period": "one-time",
+    "tag": "Limited Offer",
+    "tagType": "new",
+    "img": "/src/assets/products/writing_2327400 1.png"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "A high-quality asset pack for digital creators.",
+    "price": 45.00,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "img": "/src/assets/products/writing_2327400 1.png"
+  }
+  
+]

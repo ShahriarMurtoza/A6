@@ -86,18 +86,18 @@ const Footer = () => {
                 <li>Contact</li>
               </ul>
 
-              {/* Social Icons */}
-              {/* <div className="flex gap-3">
-      <div className="bg-white text-black p-2 rounded-full">
-        <Youtube size={16} />
-      </div>
-      <div className="bg-white text-black p-2 rounded-full">
-        <Facebook size={16} />
-      </div>
-      <div className="bg-white text-black p-2 rounded-full">
-        <Twitter size={16} />
-      </div>
-    </div> */}
+                          {/* Social Icons */}
+                          {/* <div className="flex gap-3">
+                  <div className="bg-white text-black p-2 rounded-full">
+                    <Youtube size={16} />
+                  </div>
+                  <div className="bg-white text-black p-2 rounded-full">
+                    <Facebook size={16} />
+                  </div>
+                  <div className="bg-white text-black p-2 rounded-full">
+                    <Twitter size={16} />
+                  </div>
+                </div> */}
             </div>
 
           </div>

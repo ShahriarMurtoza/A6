@@ -13,7 +13,7 @@ import './App.css'
     <>
       <NavbarHero />
       
-
+      
 
       <GetStarted />
 
