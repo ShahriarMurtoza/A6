@@ -7,7 +7,7 @@
     "period": "monthly",
     "tag": "Free",
     "tagType": "new",
-    "img": "/src/assets/products/writing_2327400 1.png"
+    "image": "/src/assets/image/writing_2327400 1.png"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "period": "monthly",
     "tag": "Popular",
     "tagType": "popular",
-    "img": "/src/assets/products/design-tool.png"
+    "image": "/src/assets/image/design-tool.png"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "period": "yearly",
     "tag": "Best Value",
     "tagType": "best seller",
-    "img": "/src/assets/products/social-media.png"
+    "image": "/src/assets/image/social-media.png"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "period": "yearly",
     "tag": "Top Rated",
     "tagType": "best seller",
-    "img": "/src/assets/products/writing_2327400 1.png"
+    "image": "/src/assets/image/writing_2327400 1.png"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "period": "one-time",
     "tag": "Limited Offer",
     "tagType": "new",
-    "img": "/src/assets/products/writing_2327400 1.png"
+    "image": "/src/assets/image/writing_2327400 1.png"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "period": "one-time",
     "tag": "Best Seller",
     "tagType": "best seller",
-    "img": "/src/assets/products/writing_2327400 1.png"
+    "image": "/src/assets/image/writing_2327400 1.png"
   }
   
 ]
