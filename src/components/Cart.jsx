@@ -6,7 +6,7 @@ const Cart = ({ carts, setCarts }) => {
 
   const handlePayment = () => {
     setCarts([]);
-   toast.success("Payement successful!");
+   toast.success("Payment successful!");
   };
 
   const handleDelete = (products) => {
@@ -41,7 +41,7 @@ const Cart = ({ carts, setCarts }) => {
                   </div>
 
                   <div>
-                    <h2 className="text-xl font-bold">{products.title}</h2>
+                    <h2 className="text-xl font-bold">{products.name}</h2>
                   </div>
                 </div>
 
@@ -66,7 +66,7 @@ const Cart = ({ carts, setCarts }) => {
 
           <button
             onClick={handlePayment}
-            className="btn w-full mt-5 bg-red-500 text-white text-2xl  rounded-lg"
+            className="btn w-full mt-5 bg-violet-500 text-white text-2xl  rounded-lg p-10"
           >
             Proceed to Checkout
           </button>

@@ -43,8 +43,8 @@ const Footer = () => {
           <div className="max-w-6xl mx-auto grid md:grid-cols-4 gap-10">
         
             {/* Left Section */}
-            <div>
-              <h2 className="text-white font-bold text-xl mb-4">DigiTools</h2>
+            <div className='mr-4'>
+              <h2 className="text-white font-bold text-3xl mb-4 ">DigiTools</h2>
               <p className="text-sm leading-relaxed">
                 Premium digital tools for creators, professionals, and businesses.
                 Work smarter with our suite of powerful tools.

@@ -14,6 +14,9 @@ const GetStarted = () => {
                  </p>
                </div>
            
+                
+
+
                {/* Cards */}
                <div className="mt-14 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
                  

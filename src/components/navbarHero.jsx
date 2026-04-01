@@ -22,6 +22,7 @@ const NavbarHero = () => {
 
 
         <div className="flex items-center gap-5">
+            
           <ShoppingCart className="w-5 h-5 text-gray-600 cursor-pointer" />
           <button className="text-gray-700 font-medium hover:text-purple-600">
             Login

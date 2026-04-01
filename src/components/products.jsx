@@ -9,7 +9,7 @@ const Products = ({ productsPromise, carts, setCarts }) => {
     return (
         <div className='py-20 max-w-7xl mx-auto px-5 space-y-10'>
             <div className='text-center'>
-                <h2 className='text-3xl font-bold '>Premium Digital Tools</h2>
+                <h2 className='text-7xl font-bold '>Premium Digital Tools</h2>
                 <p className='text-lg text-gray-600 p-4'>
                     Choose from our curated collection of premium digital products designed <br /> to boost your productivity and creativity.
                 </p>

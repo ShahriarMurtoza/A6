@@ -6,17 +6,17 @@
     "price": 20.00,
     "period": "monthly",
     "tag": "Best",
-    "tagType": "new",
+    "tagType": "New",
     "image": "/src/assets/image/writing_2327400 1.png"
   },
   {
     "id": 2,
     "name": "Design template Pack",
-    "description": "Full access to advanced tools and priority support.",
+    "description": "Full access to advanced tools and priority support. Ideal for professionals.",
     "price": 29.99,
     "period": "monthly",
-    "tag": "Popular",
-    "tagType": "popular",
+    "tag": "Popular Package",
+    "tagType": "Best Template",
     "image": "/src/assets/image/design-tool.png"
   },
   {
@@ -26,7 +26,7 @@
     "price": 299.00,
     "period": "yearly",
     "tag": "Best Value",
-    "tagType": "best seller",
+    "tagType": "Best Seller",
     "image": "/src/assets/image/camera.png"
   },
   {
@@ -36,7 +36,7 @@
     "price": 999.00,
     "period": "yearly",
     "tag": "Top Rated",
-    "tagType": "best seller",
+    "tagType": "Best Seller",
     "image": "/src/assets/image/operation.png"
   },
   {
@@ -46,17 +46,17 @@
     "price": 150.00,
     "period": "one-time",
     "tag": "Limited Offer",
-    "tagType": "new",
+    "tagType": "New",
     "image": "/src/assets/image/portfolio.png"
   },
   {
     "id": 6,
     "name": "Social Media Content Kit",
-    "description": "A high-quality asset pack for digital creators.",
+    "description": "A high-quality asset pack for digital creators. Includes templates, graphics and more.",
     "price": 45.00,
     "period": "one-time",
     "tag": "Best Seller",
-    "tagType": "best seller",
+    "tagType": "Top Rated",
     "image": "/src/assets/image/social-media.png"
   }
   

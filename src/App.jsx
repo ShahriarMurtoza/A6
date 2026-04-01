@@ -28,9 +28,9 @@ import Cart from './components/Cart'
       <NavbarHero />
 
       {/* name of each tab group should be unique */}
-      <div className="tabs tabs-box justify-center bg-transparent ">
-        <input type="radio" name="my_tabs_1" className="tab rounded-full w-50" aria-label="Products"  onClick={()=> setActiveTab("products")} defaultChecked/>
-        <input type="radio" name="my_tabs_1" className="tab rounded-full w-50" aria-label={`Cart (${carts.length})`} onClick={()=> setActiveTab("cart")} />
+      <div className="tabs tabs-box justify-center bg-transparent  gap-5 mt-5">
+        <input type="radio" name="my_tabs_1" className="tab rounded-full w-50 bg-violet-800 hover:bg-violet-700 text-white " aria-label="Products"  onClick={()=> setActiveTab("products")} defaultChecked/>
+        <input type="radio" name="my_tabs_1" className="tab rounded-full w-50 bg-violet-800 hover:bg-violet-700 text-white" aria-label={`Cart (${carts.length})`} onClick={()=> setActiveTab("cart")} />
        </div>
       
       {activeTab === "products" && <Products productsPromise={productsPromise} key={productsPromise.id} carts={carts} setCarts={setCarts} />}
