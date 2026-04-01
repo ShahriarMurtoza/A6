@@ -27,7 +27,7 @@ const GetStarted = () => {
                    </div>
            
                    <div className="w-16 h-16 mx-auto flex items-center justify-center rounded-full bg-purple-100">
-                     <img src="/src/assets/user.png" alt="User Icon" className="text-purple-600 w-7 h-7" />
+                     <img src="/public/user.png" alt="User Icon" className="text-purple-600 w-7 h-7" />
                    </div>
            
                    <h3 className="mt-6 text-lg font-semibold text-gray-800">
@@ -46,7 +46,7 @@ const GetStarted = () => {
                    </div>
            
                    <div className="w-16 h-16 mx-auto flex items-center justify-center rounded-full bg-purple-100">
-                    <img src="/src/assets/package.png" alt="Box Icon" className="text-purple-600 w-7 h-7" />
+                    <img src="/public/package.png" alt="Box Icon" className="text-purple-600 w-7 h-7" />
                    </div>
            
                    <h3 className="mt-6 text-lg font-semibold text-gray-800">
@@ -65,7 +65,7 @@ const GetStarted = () => {
                    </div>
            
                    <div className="w-16 h-16 mx-auto flex items-center justify-center rounded-full bg-purple-100">
-                     <img src="/src/assets/rocket.png" alt="Rocket Icon" className="text-purple-600 w-7 h-7" />
+                     <img src="/public/rocket.png" alt="Rocket Icon" className="text-purple-600 w-7 h-7" />
                    </div>
            
                    <h3 className="mt-6 text-lg font-semibold text-gray-800">
