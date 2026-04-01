@@ -5,7 +5,7 @@
     "description": "Essential features for individuals getting started with our platform.",
     "price": 20.00,
     "period": "monthly",
-    "tag": "Free",
+    "tag": "Best",
     "tagType": "new",
     "image": "/src/assets/image/writing_2327400 1.png"
   },
@@ -27,7 +27,7 @@
     "period": "yearly",
     "tag": "Best Value",
     "tagType": "best seller",
-    "image": "/src/assets/image/social-media.png"
+    "image": "/src/assets/image/camera.png"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "period": "yearly",
     "tag": "Top Rated",
     "tagType": "best seller",
-    "image": "/src/assets/image/writing_2327400 1.png"
+    "image": "/src/assets/image/operation.png"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "period": "one-time",
     "tag": "Limited Offer",
     "tagType": "new",
-    "image": "/src/assets/image/writing_2327400 1.png"
+    "image": "/src/assets/image/portfolio.png"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "period": "one-time",
     "tag": "Best Seller",
     "tagType": "best seller",
-    "image": "/src/assets/image/writing_2327400 1.png"
+    "image": "/src/assets/image/social-media.png"
   }
   
 ]
