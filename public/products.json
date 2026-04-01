@@ -7,7 +7,7 @@
     "period": "monthly",
     "tag": "Best",
     "tagType": "New",
-    "image": "/public/image/writing_2327400 1.png"
+    "image": "/image/writing_2327400 1.png"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "period": "monthly",
     "tag": "Popular Package",
     "tagType": "Best Template",
-    "image": "/public/image/design-tool.png"
+    "image": "/image/design-tool.png"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "period": "yearly",
     "tag": "Best Value",
     "tagType": "Best Seller",
-    "image": "/public/image/camera.png"
+    "image": "/image/camera.png"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "period": "yearly",
     "tag": "Top Rated",
     "tagType": "Best Seller",
-    "image": "/public/image/operation.png"
+    "image": "/image/operation.png"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "period": "one-time",
     "tag": "Limited Offer",
     "tagType": "New",
-    "image": "/public/image/portfolio.png"
+    "image": "/image/portfolio.png"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "period": "one-time",
     "tag": "Best Seller",
     "tagType": "Top Rated",
-    "image": "/public/image/social-media.png"
+    "image": "/image/social-media.png"
   }
   
 ]

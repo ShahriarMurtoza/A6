@@ -66,7 +66,7 @@ const NavbarHero = () => {
         {/* Right Image */}
         <div className="w-full md:w-[500px] h-[350px] bg-gray-200 rounded-xl overflow-hidden flex items-center justify-center">
           <img
-            src="/public/banner.png"
+            src="/banner.png"
             alt="Hero"
             className="object-cover w-full h-full opacity-90" />
         </div>

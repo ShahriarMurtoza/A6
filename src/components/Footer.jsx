@@ -90,9 +90,9 @@ const Footer = () => {
                 <div className='-mt-13  ml-12'>
                   <p className="p-3 ">Social Links</p>
                   <div className="flex gap-3">
-                    <img src="/public/Instagram.png" alt="" />
-                    <img src="/public/Facebook.png" alt="" />
-                    <img src="/public/Twitter.png" alt="" />
+                    <img src="/Instagram.png" alt="" />
+                    <img src="/Facebook.png" alt="" />
+                    <img src="/Twitter.png" alt="" />
                   </div>
                 </div>
               </div>
